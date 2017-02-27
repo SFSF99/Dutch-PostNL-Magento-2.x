@@ -2,7 +2,7 @@
 
 Dutch PostNL (Parcelware) manual rates packages and letters national and international with letter logic, letterbox post (brievenbus pakje post)
 
-(questions at <a href="https://ooawebstore.freeforums.org/">Magento Forum</a>, the process for adding a free extension to Magento Marketplace takes to much time for me)
+(see the special email address below for some questions, the process for adding a free extension to Magento Marketplace takes to much time for me)
 
 (more info about this module in <a href="https://www.ooawebstore.eu">webstore</a>)
 
@@ -53,6 +53,5 @@ So what do you need to do for this extension:
 
 Extension support:
 
-No support (too busy), but a few questions will be answered in the Magento forum (see link above).
-
-Questions will be NEVER answered per email!
+No support (too busy), but a few questions will be answered on this <a href="mailto:postnl@ooawebstore.eu">special email address</a> (but only domain addresses, no hotmail, gmail etc.).
+.
