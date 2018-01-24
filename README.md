@@ -8,7 +8,7 @@ Recently tested in 2.0 and 2.1!
 
 Extension since 2011 successfully used in many Dutch webshops and had been maintained as soon as shipping policy changed at PostNL. Also included letterbox package ( brievenbuspakje ) since 2014.
 
-The interface with Parcelware - desktop/web have been included in this module (extension). Such an interface is only an excel sheet with shipping data which can be imported in Parcelware/Parcelweb. These days there is no feedback anymore via an excel sheet to the webshop (from Parcelware/Parcelweb). But with a own made program at Ooawebstore.eu, it is still possible to import track&trace codes automatically in the webshop (not free). The download of orders for Parcelware can be removed by switching off the module OOA_Orders. The status for these orders can be set in the shipment module.
+The interface with Parcelware - desktop/web have been included in this module (extension). Such an interface is only an excel sheet with shipping data which can be imported in Parcelware/Parcelweb. These days there is no feedback anymore via an excel sheet to the webshop (from Parcelware/Parcelweb). But with a own made program it is still possible to import track&trace codes automatically in the webshop. The download of orders for Parcelware can be removed by switching off the module OOA_Orders. The status for these orders can be set in the shipment module.
 
 During installation of the extension 5 attributes have been added, you will see this attributes when maintaining products in the admin. Only added to the default attribute set.
 
